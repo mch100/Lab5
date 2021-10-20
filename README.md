@@ -10,4 +10,6 @@ We will have a user input their name, then a prompt will ask them is they like c
 This code shows the if statement that tests it the user inputs a D, which signifies they like dogs, or a c, which tells the program the user likes cats. 
 
 HOW TO CONTRIBUTE:
-when contributing, please fork this project and send in a pull request which will then tell the origional creators that you wish to suggest how to update or change the written code. 
+when contributing, please fork this project, make your changes and create a pull request which will then tell the origional creators that you wish to suggest how to update or change the written code. 
+
+The license we used is the Academic Free Licese v. 3.0. This license prevents anyone from selling or using this code for business. 
