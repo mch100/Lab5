@@ -13,3 +13,5 @@ HOW TO CONTRIBUTE:
 when contributing, please fork this project, make your changes and create a pull request which will then tell the origional creators that you wish to suggest how to update or change the written code. 
 
 The license we used is the Academic Free Licese v. 3.0. This license prevents anyone from selling or using this code for business. We went with this license because we want contributors to be able to help yet not make money off our own code.
+
+The CoC that we chose was the Contributor Convant. We chose this because it is to encourage collaborative space that is safe for everyone.
